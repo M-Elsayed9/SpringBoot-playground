@@ -1,5 +1,6 @@
-package com.playground.springboot.myApp;
+package com.playground.springboot.myApp.rest;
 
+import com.playground.springboot.myApp.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

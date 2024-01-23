@@ -1,4 +1,4 @@
-package com.playground.springboot.myApp;
+package com.playground.springboot.myApp.common;
 
 import org.springframework.stereotype.Component;
 
